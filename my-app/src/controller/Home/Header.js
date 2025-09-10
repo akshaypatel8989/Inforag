@@ -82,7 +82,7 @@ const Header = () => {
                         <div class="content">
                             <div class="tagline">Welcome to Inforag Technology</div>
                             <h1>IT & Digital Marketing Services</h1>
-                            <p>Welcome to Inforag Technology! We offer innovative IT solutions and digital marketing services, helping businesses<br /> thrive with customized strategies for growth and success in the digital world.</p>
+                            <p> We offer innovative IT solutions and digital marketing services, helping businesses<br /> thrive with customized strategies for growth and success in the digital world.</p>
                             <button class="btnn">Get Started</button>
                         </div>
                     </div>
